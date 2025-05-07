@@ -1,6 +1,6 @@
 module github.com/shelterbelt/majic-cli/majic
 
-go 1.20
+go 1.24
 
 require (
 	github.com/magiconair/properties v1.8.7
